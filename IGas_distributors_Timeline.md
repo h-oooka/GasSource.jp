@@ -3,7 +3,7 @@ title: 高圧ガス販売業者の規制の年表
 permalink: /IGas_distributors_Timeline/
 ---
 
-# 高圧ガス販売店の規制履歴
+# 高圧ガス販売店の規制履歴2
 
 ### 販売関連の変遷
 
