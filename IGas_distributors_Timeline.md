@@ -1,4 +1,5 @@
 ---
+layout: default
 title: 高圧ガス販売業者の規制の年表
 permalink: /IGas_distributors_Timeline/
 ---
