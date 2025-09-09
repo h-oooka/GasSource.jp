@@ -17,7 +17,7 @@ table{ width:100%; border-collapse:collapse; font-size:1rem; }
 th,td{ border-bottom:1px solid #e5e5e5; padding:.4rem .6rem; }
 </style>
 
-# 高圧ガス販売店の規制履歴_
+# 高圧ガス販売店の規制履歴
 
 ### 販売関連の変遷
 
