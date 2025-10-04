@@ -1,9 +1,3 @@
----
-layout: default
-title: 高圧ガス販売業者の規制の年表
-permalink: /IGas_distributors_Timeline/
----
-[^1]
 <style>
 .main-content, .page-content, body { font-size:18px; line-height:1.9; }
 h3{ font-size:1.8rem; margin:2rem 0 1rem; }
