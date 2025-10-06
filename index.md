@@ -1,6 +1,6 @@
-▶高圧ガス販売店の規制履歴
+▶<a>高圧ガス販売店の規制履歴,https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html</a>
 [[1004 IGas_distributors_Timeline.html]]
-https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html
+
 
 ---
 ▶再編集：「受け売りしたくなる」具体的なネタ集（受け売りネタ）
