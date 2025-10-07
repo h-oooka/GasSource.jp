@@ -7,3 +7,13 @@
 ▶[高圧ガス販売店・販売主任者の仕事一覧](https://h-oooka.github.io/GasSource.jp/HPG_distributors_jobs_List.html)
 
 ---
+▶[動画：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜]([https://youtu.be/BITLzXlhM98)
+
+
+---
+▶[動画：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜]([https://youtu.be/BITLzXlhM98)
+
+
+---
+▶[動画：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜]([https://youtu.be/BITLzXlhM98)
+
