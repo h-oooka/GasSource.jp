@@ -1,3 +1,8 @@
+【経済委員会議題詳細】
+
+[経済委員会議題](https://github.com/h-oooka/GasSource.jp/blob/main/%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E8%AD%B0%E9%A1%8C(20251008).pdf)
+
+---
 【経済委員会　事前配布】
 
 ▷[取引基本契約書における近年の追加必須条項とその例1.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%8F%96%E5%BC%95%E5%9F%BA%E6%9C%AC%E5%A5%91%E7%B4%84%E6%9B%B8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%BF%91%E5%B9%B4%E3%81%AE%E8%BF%BD%E5%8A%A0%E5%BF%85%E9%A0%88%E6%9D%A1%E9%A0%85%E3%81%A8%E3%81%9D%E3%81%AE%E4%BE%8B1.pdf)
