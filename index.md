@@ -18,6 +18,8 @@
 
 ▶[A3取引基本契約書（案）2025](https://github.com/h-oooka/GasSource.jp/blob/main/A3%E5%8F%96%E5%BC%95%E5%9F%BA%E6%9C%AC%E5%A5%91%E7%B4%84%E6%9B%B8%EF%BC%88%E6%A1%88%EF%BC%892025%EF%BC%8BSDGs.pdf)
 
+▶[全国高圧ガス溶材組合連合会 経済委員会とは](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%85%A8%E5%9B%BD%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E6%BA%B6%E6%9D%90%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A%20%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%A8%E3%81%AF.pdf)
+
 ▶[動画：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜](https://youtu.be/BITLzXlhM98)
 
 ▶[資料：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜](https://github.com/h-oooka/GasSource.jp/blob/main/%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%93%E3%81%8D%E5%88%A9%E7%9B%8A%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%82%92%E5%95%8F%E3%81%86%E3%80%9C%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A5%AD%E3%81%AE%E7%94%9F%E3%81%8D%E6%AE%8B%E3%82%8A%E3%82%92%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%9F%E3%81%9A%E3%81%AD%E3%82%8B%E3%80%9C.pdf)
@@ -25,8 +27,6 @@
 ▶[資料：「高圧ガスwith保安」を売る店になろう！](https://github.com/h-oooka/GasSource.jp/blob/main/%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%93%E3%81%8D%E5%88%A9%E7%9B%8A%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%82%92%E5%95%8F%E3%81%86%E3%80%9C%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A5%AD%E3%81%AE%E7%94%9F%E3%81%8D%E6%AE%8B%E3%82%8A%E3%82%92%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%9F%E3%81%9A%E3%81%AD%E3%82%8B%E3%80%9C.pdf)
 
 ▶[講習会アンケート（講習ポリシー裏付き）](https://github.com/h-oooka/GasSource.jp/blob/main/%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%EF%BC%88%E8%AC%9B%E7%BF%92%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E8%A3%8F%E4%BB%98%E3%81%8D%EF%BC%89.pdf)
-
-▶[全国高圧ガス溶材組合連合会 経済委員会とは](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%85%A8%E5%9B%BD%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E6%BA%B6%E6%9D%90%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A%20%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%A8%E3%81%AF.pdf)
 
 ---
 
