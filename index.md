@@ -28,6 +28,10 @@
 
 ▶[講習会アンケート（講習ポリシー裏付き）](https://github.com/h-oooka/GasSource.jp/blob/main/%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%EF%BC%88%E8%AC%9B%E7%BF%92%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E8%A3%8F%E4%BB%98%E3%81%8D%EF%BC%89.pdf)
 
+▶[（東北発）鳥インフル関連情報資料（阪急交通社）](https://github.com/h-oooka/GasSource.jp/blob/main/%E7%9B%B8%E5%A0%B4%E7%A4%BE%E9%95%B7%E6%83%85%E5%A0%B1%E8%B3%87%E6%96%99%EF%BC%88%E9%98%AA%E6%80%A5%E4%BA%A4%E9%80%9A%E7%A4%BE%EF%BC%89s.pdf)
+
+▶[「新春座談会+in+大阪」](https://github.com/h-oooka/GasSource.jp/blob/main/%E3%80%8C%E6%96%B0%E6%98%A5%E5%BA%A7%E8%AB%87%E4%BC%9A%2Bin%2B%E5%A4%A7%E9%98%AA%E3%80%8D%EF%BD%9E%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%8C%E6%8F%8F%E3%81%8F%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%AE%E6%8F%90%E6%A1%88%EF%BD%9E%2B(1).pdf)
+
 ---
 
 ～江戸川大爆発～
