@@ -26,6 +26,8 @@
 
 ▶[講習会アンケート（講習ポリシー裏付き）](https://github.com/h-oooka/GasSource.jp/blob/main/%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%EF%BC%88%E8%AC%9B%E7%BF%92%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E8%A3%8F%E4%BB%98%E3%81%8D%EF%BC%89.pdf)
 
+▶[全国高圧ガス溶材組合連合会 経済委員会とは](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%85%A8%E5%9B%BD%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E6%BA%B6%E6%9D%90%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A%20%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%A8%E3%81%AF.pdf)
+
 ---
 
 ～江戸川大爆発～
