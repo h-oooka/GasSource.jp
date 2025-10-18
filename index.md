@@ -1,5 +1,10 @@
 　〉〉〉[前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会資料.html)
 
+
+[保安委員会10/31図式資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf)
+
+[会議内容説明資料](https://h-oooka.github.io/GasSource.jp/事前説明：全溶連保安委員会（20251031）.html)
+
 # 保安委員会資料（for 20251031）
 
 ### 事故事例集の発行
