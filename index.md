@@ -9,7 +9,7 @@
 ### 周知文書更新（例年行事）
 [スケジュール提案＠Visual全溶連保安委員会資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf#page=2)
 江戸川爆発事故を表紙にする場合なにを訴えるか
-[[# ～江戸川大爆発～]] [について詳細はこちら➡](#edogawa) 
+[[#～江戸川大爆発～]] [について詳細はこちら➡](#edogawa) 
 [全溶連保安ファイルの更新版を再発行するか？](https://h-oooka.github.io/GasSource.jp/全溶連Safety-report2025-2埋設容器爆発事故Ⅱs.pdf)
 
 ### 販売店教育
