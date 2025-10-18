@@ -1,40 +1,63 @@
-【経済委員会議題詳細】
+　〉〉〉[前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会資料.html)
 
-[経済委員会議題](https://github.com/h-oooka/GasSource.jp/blob/main/%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E8%AD%B0%E9%A1%8C(20251008).pdf)
+# 保安委員会資料（for 20251031）
+
+### 事故事例集の発行
+[高圧ガス事故事例集2025s.pdf](https://h-oooka.github.io/GasSource.jp/高圧ガス事故事例集2025s.pdf")
+[高圧ガス事故事例集（テキスト版）＋2025年度事故](https://h-oooka.github.io/GasSource.jp/高圧ガス事故事例集2025.html)
+
+### 周知文書更新（例年行事）
+[スケジュール提案＠Visual全溶連保安委員会資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf#page=2)
+江戸川爆発事故を表紙にする場合なにを訴えるか
+[[～江戸川大爆発～]] [について詳細はこちら➡](#edogawa) 
+[全溶連保安ファイルの更新版を再発行するか？](https://h-oooka.github.io/GasSource.jp/全溶連Safety-report2025-2埋設容器爆発事故Ⅱs.pdf)
+
+### 販売店教育
+[動画：高圧ガス販売店はどのようにあるべきか](https://youtu.be/BITLzXlhM98)
+[「高圧ガスwith保安」を売る店になろう！](https://h-oooka.github.io/GasSource.jp/「高圧ガスwith保安」を売る店になろう！.pdf)
+[テキスト提供内容充実＠Visual全溶連保安委員会資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf#page=2)
+[動画：高圧ガス販売店・販売主任者の仕事](https://youtu.be/CcDMJt0jbj4?si=wJRdMRizeu38Fxed)
+[高圧ガス販売店・販売主任者の仕事ざっと一覧](https://h-oooka.github.io/GasSource.jp/高圧ガス販売店・販売主任者の仕事ざっと一覧2023.html)
+[高圧ガス販売店はどのようにあるべきか](https://h-oooka.github.io/GasSource.jp/業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜.pdf)
+
+### 販売店教育（保安情報）
+[高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
+[2025法省令改正の正誤表](https://h-oooka.github.io/GasSource.jp/2025法省令改正の正誤表s.pdf)
+
+### 講習テキスト（更新手順）
+[保安講習テキスト・スケジュール提案＠Visual全溶連保安委員会資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf#page=2)
+[講習テキスト2025（準備稿：保安法外）](https://h-oooka.github.io/GasSource.jp/講習テキスト2025（準備稿：保安法外）v12s.pdf)
+
+### 講習会活性
+[高圧ガス保安講習に対するアプローチ](https://h-oooka.github.io/GasSource.jp/高圧ガス保安講習に対するアプローチ.pdf)
+[講習会アンケート（講習ポリシー裏付き）](https://h-oooka.github.io/GasSource.jp/講習会アンケート（講習ポリシー裏付き）.pdf)
+[「高圧ガス講習会・素材（高圧ガスプレゼンパーツ」](https://youtube.com/playlist?list=PLyWaCYkYFCtRkPucUMitdzt-6NS_G58JI&si=I2iGlCYslNrFXkqN)
+[「受け売りしたくなる」具体的なネタ集](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
+
+### 容器回収／保安指針
+[【JIMGA】20250703_容器管理指針一覧](https://h-oooka.github.io/GasSource.jp/【JIMGA】20250703_容器管理指針一覧.pdf)
+[中央容器管理委員会）放置容器処理大要](https://h-oooka.github.io/GasSource.jp/中央容器管理委員会）放置容器処理大要.pdf)
+[放置容器処理大要（KHK）昭和63年6月](https://h-oooka.github.io/GasSource.jp/放置容器処理大要（KHK）昭和63年6月.html)
+
+### 関係団体との活動連携
+[高圧ガス保安法省令の規制緩和による法遵守可能性の向上](https://h-oooka.github.io/GasSource.jp/高圧ガス保安法省令の規制緩和による法遵守可能性の向上.pdf)
+[四十℃規制再考のいきさつ](https://h-oooka.github.io/GasSource.jp/四十℃規制再考のいきさつ.pdf)
+
+
+## その他の説明
+### 参考情報/資料 部分
+#### ○[英文周知文書](https://zenyoren.com/wp-content/uploads/2024/08/e21cadfc4997589c558de66f51f98000.pdf)
+
+#### ○「40度規制の検討」はじめ、全溶連会員に役立つ要望の解決：：40度規制は経産省がKHKに委託済
+[高圧ガス保安法省令の規制緩和による法遵守可能性の向上](https://h-oooka.github.io/GasSource.jp/高圧ガス保安法省令の規制緩和による法遵守可能性の向上.pdf)
+
+### 経済委員会マター 部分
+[A3取引基本契約書（案）2025＋SDGs.pdf](https://h-oooka.github.io/GasSource.jp/A3取引基本契約書（案）2025＋SDGs.pdf)
+[取引基本契約書における近年の追加必須条項とその例](https://h-oooka.github.io/GasSource.jp/取引基本契約書における近年の追加必須条項とその例1.pdf)
 
 ---
-【経済委員会　事前配布】
-
-▷[取引基本契約書における近年の追加必須条項とその例1.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%8F%96%E5%BC%95%E5%9F%BA%E6%9C%AC%E5%A5%91%E7%B4%84%E6%9B%B8%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E8%BF%91%E5%B9%B4%E3%81%AE%E8%BF%BD%E5%8A%A0%E5%BF%85%E9%A0%88%E6%9D%A1%E9%A0%85%E3%81%A8%E3%81%9D%E3%81%AE%E4%BE%8B1.pdf)
-
-▷[高圧ガス販売店・販売主任者の仕事一覧](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E5%BA%97%E3%83%BB%E8%B2%A9%E5%A3%B2%E4%B8%BB%E4%BB%BB%E8%80%85%E3%81%AE%E4%BB%95%E4%BA%8B%E3%81%96%E3%81%A3%E3%81%A8%E4%B8%80%E8%A6%A72023.md)
-
-▷[高圧ガス保安講習に対するアプローチ.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E4%BF%9D%E5%AE%89%E8%AC%9B%E7%BF%92%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%81.pdf)
-
-▷[全溶連大会ＳＤＧｓ報告](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%85%A8%E6%BA%B6%E9%80%A3%E5%A4%A7%E4%BC%9A%EF%BC%B3%EF%BC%A4%EF%BC%A7%EF%BD%93%E5%A0%B1%E5%91%8A2.pdf)
-
----
-【経済委員会　会議当日用】
-
-▶[A3取引基本契約書（案）2025](https://github.com/h-oooka/GasSource.jp/blob/main/A3%E5%8F%96%E5%BC%95%E5%9F%BA%E6%9C%AC%E5%A5%91%E7%B4%84%E6%9B%B8%EF%BC%88%E6%A1%88%EF%BC%892025%EF%BC%8BSDGs.pdf)
-
-▶▶[（東北発）鳥インフル関連情報資料（阪急交通社）](https://github.com/h-oooka/GasSource.jp/blob/main/%E7%9B%B8%E5%A0%B4%E7%A4%BE%E9%95%B7%E6%83%85%E5%A0%B1%E8%B3%87%E6%96%99%EF%BC%88%E9%98%AA%E6%80%A5%E4%BA%A4%E9%80%9A%E7%A4%BE%EF%BC%89s.pdf)
-
-▶▶[「新春座談会+in+大阪」](https://github.com/h-oooka/GasSource.jp/blob/main/%E3%80%8C%E6%96%B0%E6%98%A5%E5%BA%A7%E8%AB%87%E4%BC%9A%2Bin%2B%E5%A4%A7%E9%98%AA%E3%80%8D%EF%BD%9E%E6%AC%A1%E4%B8%96%E4%BB%A3%E3%81%8C%E6%8F%8F%E3%81%8F%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%B8%E3%81%AE%E6%8F%90%E6%A1%88%EF%BD%9E%2B(1).pdf)
-
-▶[全国高圧ガス溶材組合連合会 経済委員会とは](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%85%A8%E5%9B%BD%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E6%BA%B6%E6%9D%90%E7%B5%84%E5%90%88%E9%80%A3%E5%90%88%E4%BC%9A%20%E7%B5%8C%E6%B8%88%E5%A7%94%E5%93%A1%E4%BC%9A%E3%81%A8%E3%81%AF.pdf)
-
-▶[動画：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜](https://youtu.be/BITLzXlhM98)
-
->[資料：業界の未来を拓き利益の本質を問う〜高圧ガス販売業の生き残りを歴史にたずねる〜](https://github.com/h-oooka/GasSource.jp/blob/main/%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%93%E3%81%8D%E5%88%A9%E7%9B%8A%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%82%92%E5%95%8F%E3%81%86%E3%80%9C%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A5%AD%E3%81%AE%E7%94%9F%E3%81%8D%E6%AE%8B%E3%82%8A%E3%82%92%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%9F%E3%81%9A%E3%81%AD%E3%82%8B%E3%80%9C.pdf)
-
-▶[資料：「高圧ガスwith保安」を売る店になろう！](https://github.com/h-oooka/GasSource.jp/blob/main/%E6%A5%AD%E7%95%8C%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%82%92%E6%8B%93%E3%81%8D%E5%88%A9%E7%9B%8A%E3%81%AE%E6%9C%AC%E8%B3%AA%E3%82%92%E5%95%8F%E3%81%86%E3%80%9C%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E8%B2%A9%E5%A3%B2%E6%A5%AD%E3%81%AE%E7%94%9F%E3%81%8D%E6%AE%8B%E3%82%8A%E3%82%92%E6%AD%B4%E5%8F%B2%E3%81%AB%E3%81%9F%E3%81%9A%E3%81%AD%E3%82%8B%E3%80%9C.pdf)
-
-▶[講習会アンケート（講習ポリシー裏付き）](https://github.com/h-oooka/GasSource.jp/blob/main/%E8%AC%9B%E7%BF%92%E4%BC%9A%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88%EF%BC%88%E8%AC%9B%E7%BF%92%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E8%A3%8F%E4%BB%98%E3%81%8D%EF%BC%89.pdf)
-
----
-
-～江戸川大爆発～
+### ～江戸川大爆発～
+{: #edogawa}
 
 [➀東京・江戸川区アセチレンガス容器爆発事故に関する分析と提言.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E2%9E%80%E6%9D%B1%E4%BA%AC%E3%83%BB%E6%B1%9F%E6%88%B8%E5%B7%9D%E5%8C%BA%E3%82%A2%E3%82%BB%E3%83%81%E3%83%AC%E3%83%B3%E3%82%AC%E3%82%B9%E5%AE%B9%E5%99%A8%E7%88%86%E7%99%BA%E4%BA%8B%E6%95%85%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E5%88%86%E6%9E%90%E3%81%A8%E6%8F%90%E8%A8%80.pdf)
 
@@ -46,20 +69,5 @@
 
 [高圧ガスの地中埋設が廃棄に該当しない法的根拠に関するレポート.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E3%81%AE%E5%9C%B0%E4%B8%AD%E5%9F%8B%E8%A8%AD%E3%81%8C%E5%BB%83%E6%A3%84%E3%81%AB%E8%A9%B2%E5%BD%93%E3%81%97%E3%81%AA%E3%81%84%E6%B3%95%E7%9A%84%E6%A0%B9%E6%8B%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%AC%E3%83%9D%E3%83%BC%E3%83%88.pdf)
 
----
-【大岡くんコレクション】
-
-[高圧ガス販売店の規制履歴](https://h-oooka.github.io/GasSource.jp/IGas_distributors_Timeline.html)
-
-[再編集：「受け売りしたくなる」具体的なネタ集（受け売りネタ）](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
-
-[動画編集・作成依頼文.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%8B%95%E7%94%BB%E7%B7%A8%E9%9B%86%E3%83%BB%E4%BD%9C%E6%88%90%E4%BE%9D%E9%A0%BC%E6%96%87.pdf)
-
-[四十℃規制再考のいきさつ.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E5%9B%9B%E5%8D%81%E2%84%83%E8%A6%8F%E5%88%B6%E5%86%8D%E8%80%83%E3%81%AE%E3%81%84%E3%81%8D%E3%81%95%E3%81%A4.pdf)
-
-[高圧ガス保安法省令の規制緩和による法遵守可能性の向上.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E4%BF%9D%E5%AE%89%E6%B3%95%E7%9C%81%E4%BB%A4%E3%81%AE%E8%A6%8F%E5%88%B6%E7%B7%A9%E5%92%8C%E3%81%AB%E3%82%88%E3%82%8B%E6%B3%95%E9%81%B5%E5%AE%88%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AE%E5%90%91%E4%B8%8A.pdf)
-
-[高圧ガス業界における保安資料継続と保安文化の課題に関する総合アプローチ3.pdf](https://github.com/h-oooka/GasSource.jp/blob/main/%E9%AB%98%E5%9C%A7%E3%82%AC%E3%82%B9%E6%A5%AD%E7%95%8C%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E4%BF%9D%E5%AE%89%E8%B3%87%E6%96%99%E7%B6%99%E7%B6%9A%E3%81%A8%E4%BF%9D%E5%AE%89%E6%96%87%E5%8C%96%E3%81%AE%E8%AA%B2%E9%A1%8C%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E7%B7%8F%E5%90%88%E3%82%A2%E3%83%97%E3%83%AD%E3%83%BC%E3%83%813.pdf)
 
 ---
-https://h-oooka.github.io/GasSource.jp/
