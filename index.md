@@ -9,7 +9,7 @@
 
 ### 事故事例集の発行
 
-[高圧ガス事故事例集2025s.pdf](https://h-oooka.github.io/GasSource.jp/高圧ガス事故事例集2025s.pdf")
+[高圧ガス事故事例集2025s.pdf](https://h-oooka.github.io/GasSource.jp/高圧ガス事故事例集2025s.pdf)
 
 [高圧ガス事故事例集（テキスト版）＋2025年度事故](https://h-oooka.github.io/GasSource.jp/高圧ガス事故事例集2025.html)
 
