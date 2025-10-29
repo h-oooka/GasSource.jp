@@ -24,6 +24,10 @@
 
 [全溶連保安ファイルの更新版を再発行するか？](https://h-oooka.github.io/GasSource.jp/全溶連Safety-report2025-2埋設容器爆発事故Ⅱs.pdf)
 
+-　[LP周知文書2025](https://h-oooka.github.io/GasSource.jp/LP周知文書2025原稿（案）5s.pdf)
+
+-　[酸アセ周知文書2025](https://h-oooka.github.io/GasSource.jp/酸ｱｾ周知文書2025原稿（案）8s)
+
 ### 販売店教育
 
 [動画：高圧ガス販売店はどのようにあるべきか](https://youtu.be/BITLzXlhM98)
