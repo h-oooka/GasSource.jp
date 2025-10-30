@@ -1,9 +1,12 @@
 　〉〉〉[前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会資料.html)
 
 
+[◎全溶連保安委員会議事進行資料（2025年10月31日）](https://h-oooka.github.io/GasSource.jp/全溶連保安委員会資料（2025年10月31日）.pdf)　**追加10/30**
+
+<BR>
 [保安委員会10/31図式資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf)
 
-[会議内容説明資料](https://h-oooka.github.io/GasSource.jp/事前説明：全溶連保安委員会（20251031）.html)
+[会議内容事前説明資料](https://h-oooka.github.io/GasSource.jp/事前説明：全溶連保安委員会（20251031）.html)
 
 ---
 # 保安委員会議題 予定資料（for 20251031）
@@ -56,6 +59,9 @@
 ### 講習テキスト（更新手順）
 
 [保安講習テキスト・スケジュール提案＠Visual全溶連保安委員会資料](https://h-oooka.github.io/GasSource.jp/Visual全溶連保安委員会（20251031）.pdf#page=2)
+
+[保安講習テキスト規制部分説明用分類資料](https://h-oooka.github.io/GasSource.jp/貯蔵、移動、消費、廃棄の規制分類.pdf)　**追加10/30**
+
 
 [講習テキスト2025（準備稿：保安法外）](https://h-oooka.github.io/GasSource.jp/講習テキスト2025（準備稿：保安法外）v12s.pdf)
 
