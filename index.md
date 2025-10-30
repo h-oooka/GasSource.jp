@@ -1,7 +1,7 @@
 　〉〉〉[前経済委員会の資料類はこちら](https://h-oooka.github.io/GasSource.jp/経済委員会資料.html)
 
 
-[◎全溶連保安委員会議事進行資料（2025年10月31日）](https://h-oooka.github.io/GasSource.jp/全溶連保安委員会資料（2025年10月31日）.pdf)　**追加10/30**
+[◎全溶連保安委員会議事進行資料（2025年10月31日）](https://h-oooka.github.io/GasSource.jp/全溶連保安委員会資料（2025年10月31日）.pdf)　[.](https://h-oooka.github.io/GasSource.jp/◎保安委員会議事進行資料（2025年10月31日）.html)**追加10/30**
 
 <BR>
 
