@@ -114,5 +114,5 @@
 <BR>
 
 ---
-https://h-oooka.github.io/contents/
+https://h-oooka.github.io/GasSource.jp/
 
