@@ -77,6 +77,8 @@
 
 [「受け売りしたくなる」具体的なネタ集](https://h-oooka.github.io/GasSource.jp/A_collection_of_specific_topics.html)
 
+[講習チラシ用4コマ漫画](https://drive.google.com/drive/folders/1vbuFvsj_e-Gh7vjVIDJup93CpD8p37vV?usp=drive_link)
+
 ### 容器回収／保安指針
 
 [【JIMGA】20250703_容器管理指針一覧](https://h-oooka.github.io/GasSource.jp/【JIMGA】20250703_容器管理指針一覧.pdf)
